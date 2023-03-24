@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently developing the BShop WebSite<br>I'm Brazilian <br>I'm in minecraft world since 2014 but i've started in the dev world in 2020<br>I'm started in dev world with Discord Bot's
+I'm currently developing the BShop WebSite<br>I'm Brazilian <br>I'm in minecraft world since 2014 but i've started in the dev world in 2020<br>I've started in dev world with Discord Bot's
 
 
 ## 🌐 Socials:
